@@ -38,6 +38,15 @@ pia-flight-management-system/
 cd src/
 python main.py
 ```
+## 👨‍💻 Author
+
+**Abdul Ahad Tanvir**  
+📍 Lahore, Pakistan  
+📧 itisahadhere@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdul-ahad-tanvir-3b14a9283/)
+
+---
+
 ⚠️ Notes:
 While reserving a seat, ensure the ID field is exactly 7 numeric characters long. The system will reject invalid formats.
 Make sure `isidata.txt` and `save_file.save` are present in the same `src/` folder.
