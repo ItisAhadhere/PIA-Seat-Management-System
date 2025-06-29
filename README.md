@@ -37,7 +37,15 @@ pia-flight-management-system/
 ```bash
 cd src/
 python main.py
+
 ```
+---
+
+⚠️ Notes:
+While reserving a seat, ensure the ID field is exactly 7 numeric characters long. The system will reject invalid formats.
+Make sure `isidata.txt` and `save_file.save` are present in the same `src/` folder.
+---
+
 ## 👨‍💻 Author
 
 **Abdul Ahad Tanvir**  
@@ -46,10 +54,6 @@ python main.py
 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-ahad-tanvir-3b14a9283/)
 
 ---
-
-⚠️ Notes:
-While reserving a seat, ensure the ID field is exactly 7 numeric characters long. The system will reject invalid formats.
-Make sure `isidata.txt` and `save_file.save` are present in the same `src/` folder.
 
 ## 📄 License
 This project is licensed under the MIT License.
